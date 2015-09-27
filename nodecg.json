@@ -1,0 +1,14 @@
+{
+    "name": "cod-stats",
+    "description": "Pull cod stats",
+    "version": "0.0.1",
+    "nodecgDependency": "0.6.1",
+    "authors": [
+        "fathom"
+    ],
+    "homepage": "",
+    "license": "",
+    "extension": {
+        "path": "extension.js"
+    }
+}
